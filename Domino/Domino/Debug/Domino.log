@@ -1,0 +1,3 @@
+﻿  DOMINO3_Daniel_Castro_y_David_Lago.cpp
+D:\DOMINO3_Daniel_Castro_y_David_Lago.cpp(167,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Domino.vcxproj -> D:\GITHUB_PERSONAL\FP-Videojuego-Domino-C-\Domino\Debug\Domino.exe
